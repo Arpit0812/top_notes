@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035689339233",
+    "project_id": "topnotes-e6196",
+    "storage_bucket": "topnotes-e6196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035689339233:android:f51afce2c059490f28fd20",
+        "android_client_info": {
+          "package_name": "com.example.topnote_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035689339233-pl9v4v4f7rs89oh09j1v98lgdrpq43ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgigMy6ir-hIgforef-Vo4cf_2UyH4pCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035689339233-pl9v4v4f7rs89oh09j1v98lgdrpq43ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
